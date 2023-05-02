@@ -1,7 +1,7 @@
 {
   "name": "hachi-roku",
   "version": "0.1.1",
-  "homepage": "https://razvan999.github.io/host-react2/",
+  "homepage": "https://razvan999.github.io/host/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
